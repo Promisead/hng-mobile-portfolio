@@ -23,10 +23,10 @@ Created for the **Zuri Mobile Track – Stage 0 Task**, this app showcases my **
 
 | Light Mode | Dark Mode |
 |-------------|------------|
-| <img src="./assets/screenshots/light.png" width="300"/> | <img src="./assets/screenshots/dark.png" width="300"/> |
-) | ![Dark Mode Screenshot](<img src="./assets/screenshots/dark.png" width="300"/>) |
+| <img src="./assets/screenshots/light.png" width="300"/> | <img src="./screenshots/dark.png" width="300"/> |
+) | ![Dark Mode Screenshot]<img src="./screenshots/dark.png" width="300"/> |
 
-> 🖼️ Add your actual screenshots inside:
+
 > ```
 > assets/screenshots/light.png
 > assets/screenshots/dark.png
@@ -38,8 +38,7 @@ Created for the **Zuri Mobile Track – Stage 0 Task**, this app showcases my **
 
 [![Watch the Demo](https://img.shields.io/badge/▶️%20Watch%20Video-blue?style=for-the-badge)](https://appetize.io/app/YOUR_APP_PREVIEW_LINK)
 
-> 🔗 Replace the link above with your **Appetize.io public preview link**,  
-> or upload your demo to **YouTube / TikTok** and paste the link here.
+
 
 ---
 
