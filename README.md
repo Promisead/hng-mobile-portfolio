@@ -19,7 +19,7 @@ Created for the **Zuri Mobile Track – Stage 0 Task**, this app showcases my **
 
 | Light Mode | Dark Mode |
 |-------------|------------|
-| ![Light Mode Screenshot](./assets/screenshots/light.png) | ![Dark Mode Screenshot](./assets/screenshots/dark.png) |
+| ![Light Mode Screenshot](./screenshots/light.png) | ![Dark Mode Screenshot](./screenshots/dark.png) |
 
 
 > ```
