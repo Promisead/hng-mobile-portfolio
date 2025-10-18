@@ -19,7 +19,12 @@ Created for the **Zuri Mobile Track – Stage 0 Task**, this app showcases my **
 
 | Light Mode | Dark Mode |
 |-------------|-----------|
-| ![Light Mode Screenshot](assets/screenshots/light.png) | ![Dark Mode Screenshot](assets/screenshots/dark.png) |
+| ![Light Mode Screenshot](## 🌗 App Screenshots
+
+| Light Mode | Dark Mode |
+|-------------|------------|
+| <img src="./assets/screenshots/light.png" width="300"/> | <img src="./assets/screenshots/dark.png" width="300"/> |
+) | ![Dark Mode Screenshot](<img src="./assets/screenshots/dark.png" width="300"/>) |
 
 > 🖼️ Add your actual screenshots inside:
 > ```
@@ -54,7 +59,7 @@ Follow these steps to set up and run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/portfolio-app.git
+git clone https://github.com/promisedukeac/portfolio-app.git
 
 # Navigate into the folder
 cd portfolio-app
