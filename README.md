@@ -15,16 +15,11 @@ Created for the **Zuri Mobile Track – Stage 0 Task**, this app showcases my **
 
 ---
 
-## 📸 Screenshots
-
-| Light Mode | Dark Mode |
-|-------------|-----------|
-| ![Light Mode Screenshot](## 🌗 App Screenshots
+## 🌗 App Screenshots
 
 | Light Mode | Dark Mode |
 |-------------|------------|
-| (./screenshots/light.png) | (./screenshots/dark.png)|
-) | ![Dark Mode Screenshot](./screenshots/dark.png) | | ![Light Mode Screenshot](./screenshots/light.png)
+| ![Light Mode Screenshot](./assets/screenshots/light.png) | ![Dark Mode Screenshot](./assets/screenshots/dark.png) |
 
 
 > ```
